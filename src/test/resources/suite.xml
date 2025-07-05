@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<suite name="Add New Employee">
+
+    <test name="Adding a New eMPLOYEE ">
+        <classes>
+            <class name="TestRunner.EmployeeTestRunner"></class>
+        </classes>
+    </test>
+
+
+</suite>
