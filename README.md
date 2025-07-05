@@ -1,4 +1,4 @@
-# Employee PROFILE AUTOMATION TEST 
+# EMPLOYEE PROFILE AUTOMATION TEST 
 
 
 ## project Summary
@@ -18,6 +18,6 @@ Key Features
 This automation project improves HR system quality by enabling fast, consistent, and thorough testing of employee profile management.
 
 ## Technology 
-Selenium
-TestNG
-InteliJ Idea 
+```Selenium```
+```TestNG```
+```IntelliJ Idea``` 
